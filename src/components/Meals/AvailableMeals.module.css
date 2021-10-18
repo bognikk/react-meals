@@ -23,7 +23,8 @@
   }
 }
 
-.MealsLoading {
+.MealsLoading,
+.MealsError {
   margin: 1rem auto;
   text-align: center;
   color: black;
@@ -32,4 +33,8 @@
   background-color: white;
   width: 20%;
   border-radius: 20px;
+}
+
+.MealsError {
+  color: red;
 }
