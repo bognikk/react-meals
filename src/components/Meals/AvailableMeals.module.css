@@ -22,3 +22,14 @@
     transform: translateY(0);
   }
 }
+
+.MealsLoading {
+  margin: 1rem auto;
+  text-align: center;
+  color: black;
+  font-weight: bold;
+  padding: 1rem 2rem;
+  background-color: white;
+  width: 20%;
+  border-radius: 20px;
+}
